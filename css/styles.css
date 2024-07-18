@@ -508,10 +508,10 @@ footer {
   background-color: #31d0aa;
 }
 /* Footer form */
-.footer-form {
+.container .footer-form-container {
   display: flex;
   flex-direction: column;
-  padding-right: 159px;
+  margin-left: auto;
 }
 
 .email-input {
@@ -531,11 +531,11 @@ footer {
 }
 
 .form {
-  margin-left: auto;
   display: flex;
   gap: 24px;
 }
-.footer-title {
+
+.footer-text {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
