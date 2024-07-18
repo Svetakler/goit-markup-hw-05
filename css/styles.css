@@ -508,7 +508,7 @@ footer {
   background-color: #31d0aa;
 }
 /* Footer form */
-.container .footer-form-container {
+.footer-form {
   display: flex;
   flex-direction: column;
   margin-left: auto;
@@ -523,7 +523,6 @@ footer {
   background-color: transparent;
   color: #fff;
   padding-left: 16px;
-
   font-size: 12px;
   line-height: 2;
   letter-spacing: 0.04em;
